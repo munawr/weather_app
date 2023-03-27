@@ -19,12 +19,12 @@
 //       final PhoneVerificationCompleted verificationCompleted =
 //           (PhoneAuthCredential credential) async {
 //         await FirebaseAuth.instance.signInWithCredential(credential);
-//         // TODO: Handle signed in user
+//         
 //       };
 
 //       final PhoneVerificationFailed verificationFailed =
 //           (FirebaseAuthException authException) {
-//         // TODO: Handle verification failed
+//         
 //       };
 
 //       final PhoneCodeSent codeSent =
