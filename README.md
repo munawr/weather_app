@@ -1,16 +1,18 @@
-# weather_app
+# LYISH Weather App:
+Weather App is a Flutter application that provides users with a comprehensive weather experience. The app features a user-friendly interface, Firebase authentication for user login, location services to fetch the current location's weather, and a five-day weather forecast.
 
-A new Flutter project.
+## Features:
+Firebase Authentication: Secure user authentication using Firebase Authentication. Users can create an account or log in using their existing credentials.
 
-## Getting Started
+Location Services: Utilizes the device's location services to fetch real-time weather information for the user's current location.
 
-This project is a starting point for a Flutter application.
+Five Days Weather Forecast: Provides a detailed five-day weather forecast, enabling users to plan their activities accordingly.
 
-A few resources to get you started if this is your first Flutter project:
+API Integration: Integration with a weather API to fetch accurate and up-to-date weather data. Ensure you have the necessary API keys for seamless functionality.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Lottie Images: Enhances the user interface with Lottie animations, making the app visually appealing and engaging.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Prerequisites
+Flutter: Ensure Flutter is installed on your machine.
+Firebase Account: Set up a Firebase project and obtain the necessary configuration files.
+Weather API Key: Sign up for a weather API key and replace the placeholder in the code with your actual key.
